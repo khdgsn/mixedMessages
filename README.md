@@ -1,13 +1,13 @@
 # mixedMessages Project (Codecademy)
-A group project, with my good buddy Jordan. It will produce a random sentence about an newly discovered alien, their name and what they like eat.
+A group project, with my good buddy Jordan (@Jordan966 on GitHub). It will produce a random sentence about an newly discovered alien race, their name and what they like eat.
 
-Technologies used
+Technologies Used
 ----------------
-JavaScript <br>
-Node.js <br>
-Git Bash <br>
-Visual Studio Code
+* JavaScript <br>
+* Node.js <br>
+* Git Bash <br>
+* Visual Studio Code
 
-Future visions
+Future Visions
 --------------
-- add HTML & CSS to make a simple website
+- Implement this JS file into a basic HTML site styled with CSS.
