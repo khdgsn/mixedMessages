@@ -8,6 +8,6 @@ Technologies Used
 * Git Bash <br>
 * Visual Studio Code
 
-Future Visions
+Future Visions (Ideas Branch)
 --------------
 - Implement this JS file into a basic HTML site styled with CSS.
